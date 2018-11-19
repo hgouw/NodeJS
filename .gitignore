@@ -1,0 +1,19 @@
+bin
+obj
+Debug
+*/obj
+/.vs/
+# */node_modules/
+node_modules/
+*.cmd
+*.sln
+*.zip
+*.njsproj
+*.njsproj*
+*.csproj
+app.js
+*.cache
+/DatabaseSetup/*
+/FileUploader.Net/*
+
+!/node_modules/lexisnexis/
